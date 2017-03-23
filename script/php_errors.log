@@ -1,0 +1,1 @@
+[17-May-2016 05:48:43 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /Users/AP/Documents/virtualserver/artdeco/script/save.php on line 31
